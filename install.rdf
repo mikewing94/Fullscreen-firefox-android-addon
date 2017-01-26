@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:em="http://www.mozilla.org/2004/em-rdf#">
+
+	<Description about="urn:mozilla:install-manifest">
+		<em:id>autofullscreen@xuldev.org</em:id>
+		<em:type>2</em:type>
+		<em:name>Auto Fullscreen</em:name>
+		<em:version>0.3.1-signed.1-signed</em:version>
+		<em:bootstrap>true</em:bootstrap>
+		<em:description>Hides location bar when swiping and after page load. Shows location bar when swiping vertically towards or from upper edge of screen. Steps backwards (forward) in browser history when swiping horizontally from (towards) left edge of screen. </em:description>
+		<em:creator>ChrisX</em:creator>
+		<em:targetApplication>
+			<Description>
+				<em:id>{aa3c5121-dab2-40e2-81ca-7ea25febc110}</em:id>
+				<em:minVersion>15.0</em:minVersion>
+				<em:maxVersion>21.0a1</em:maxVersion>
+			</Description>
+		</em:targetApplication>
+	</Description>
+</RDF>

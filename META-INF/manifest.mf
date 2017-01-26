@@ -1,0 +1,37 @@
+Manifest-Version: 1.0
+
+Name: install.rdf
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Jp92DnRtedZ4xdnDR4xb7w==
+SHA1-Digest: Z7lcG5xcUh08mZXkX4Ca6/9imJ0=
+
+Name: chrome.manifest
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ZRz/6lxk+Zi24QoF9YxGKg==
+SHA1-Digest: 0ri6sJwM45k9gjwEfWTX+YrhR0A=
+
+Name: bootstrap.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: WTSXvsFF1nYmI3v8Dp10lQ==
+SHA1-Digest: LknmtFSARtDOzsB8WD7UXc/mdts=
+
+Name: LICENSE.txt
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: nYUIW31Tw/tdesGtyiY3AA==
+SHA1-Digest: FKGyS3xBOjZecDnHiYWCPJS0G3I=
+
+Name: defaults/preferences/prefs.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 1B2M2Y8AsgTpgAmY7PhCfg==
+SHA1-Digest: 2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+
+Name: locale/en-US/main.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: c2uNQ03gg0K6q5/pep869g==
+SHA1-Digest: F/HtYkSJ1Bqe+Oo/VM6V0EG5oRc=
+
+Name: locale/ja/main.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: NNoYNFPQhPOBID5evydiRw==
+SHA1-Digest: qPv7G8j/UYk1QWCszGFo5cKEtEU=
+
